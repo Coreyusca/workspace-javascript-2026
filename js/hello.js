@@ -18,4 +18,4 @@ var hours = today.getHours();
 
 
 // write to the document 
-document.write(greetings);
+document.writeln("greetings");
